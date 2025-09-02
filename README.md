@@ -21,7 +21,7 @@ Saya seorang developer dengan passion di bidang desain modern dan pengembangan a
 
 ---
 
-### 🚀 Proyek Unggulan
+### 💻 Proyek Unggulan
 
 | Nama Proyek      | Deskripsi Singkat        | Tech Stack     |
 |------------------|-------------------------|----------------|
