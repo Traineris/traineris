@@ -42,10 +42,17 @@ Saya seorang developer dengan passion di bidang desain modern dan pengembangan a
 ### 📫 Kontak & Media Sosial
 
 <p align="center">
-  <a href="mailto:maulanakhalilgbrn@gmail.com"><img src="https://img.shields.io/badge/Email-YourEmail-blue?style=flat-square&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/maulana-khalil-gibran-908695226/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="081275112737"><img src="https://img.shields.io/badge/Twitter-@yourtwitter-1da1f2?style=flat-square&logo=whatsapp" /></a>
+  <a href="mailto:maulanakhalilgbrn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/maulana-khalil-gibran-908695226/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://wa.me/6281275112737">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-success?style=flat-square&logo=whatsapp" />
+  </a>
 </p>
+
 
 ---
 
